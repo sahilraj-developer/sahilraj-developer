@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react.js,node.js,mern stack,web3, solidity,blockchain**
 
-- 📫 How to reach me **sahil27raj@hmail.com**
+- 📫 How to reach me **sahil27raj@gmail.com**
 
 - ⚡ Fun fact **I am funny😂😊😊**
 
